@@ -1,0 +1,7 @@
+
+Arquivo: testData/Dog (1).wav; Animal: classifierData/cachorro; Probabilidade: 58.91102539587796%
+Arquivo: testData/Dog (2).wav; Animal: classifierData/cachorro; Probabilidade: 49.79299755408367%
+Arquivo: testData/Gato (1).wav; Animal: classifierData/gato; Probabilidade: 54.899269825430366%
+Arquivo: testData/Gato (2).wav; Animal: classifierData/gato; Probabilidade: 90.42678237108406%
+Arquivo: testData/Onca (1).wav; Animal: classifierData/onca; Probabilidade: 90.01667606835673%
+Arquivo: testData/Onca (2).wav; Animal: classifierData/onca; Probabilidade: 89.05505567137013%
